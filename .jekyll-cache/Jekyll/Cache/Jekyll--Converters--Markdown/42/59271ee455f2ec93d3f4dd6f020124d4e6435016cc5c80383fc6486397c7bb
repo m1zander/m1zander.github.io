@@ -1,0 +1,9 @@
+I"[<p>I am a PhD student at the University of Colorado Boulder in the Department of Information Science. My research focuses on the societal and environmental impacts of the data center industry in the United States and Northern European countries.
+I am co-advised by <a href="https://www.colorado.edu/cmci/people/information-science/leysia-palen">Dr. Leysia Palen</a> and <a href="https://www.colorado.edu/cmci/people/information-science/alison-cool">Dr. Alison Cool</a>. I am a member of the EPIC lab (Empowering the Public with Information in Crisis).</p>
+
+<!--- You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.--->
+
+<!---Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.--->
+
+<p>Link to your social media connections, too. This theme is set up to use <a href="http://fortawesome.github.io/Font-Awesome/" target="\_blank">Font Awesome icons</a> and <a href="https://jpswalsh.github.io/academicons/" target="\_blank">Academicons</a>, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.</p>
+:ET
