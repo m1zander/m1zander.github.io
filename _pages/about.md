@@ -6,7 +6,7 @@ description: PhD Student
 
 profile:
   align: right
-  image: madelyn.png
+  image: madelyn.jpg
   #address: >
   #  <p>555 your office number</p>
   #  <p>123 your address street</p>
