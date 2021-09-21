@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /assets/zander_cv.pdf
+permalink: /cv
 #description: A growing collection of your cool projects.
 nav: true
 #display_categories: [work, fun]
