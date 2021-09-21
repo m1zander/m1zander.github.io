@@ -1,0 +1,10 @@
+# Generated output.
+_site/
+
+.jekyll-metadata
+
+.jekyll-cache/
+.sass-cache/
+
+.bundle/
+vendor/
