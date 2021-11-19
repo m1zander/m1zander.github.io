@@ -2,15 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/news/announcement_2/</loc>
-<lastmod>2020-08-01T14:11:00-06:00</lastmod>
+<lastmod>2020-08-01T16:11:00-04:00</lastmod>
 </url>
 <url>
 <loc>/news/announcement_3/</loc>
-<lastmod>2021-05-01T05:59:00-06:00</lastmod>
+<lastmod>2021-05-01T07:59:00-04:00</lastmod>
 </url>
 <url>
 <loc>/projects/1_project/</loc>
-<lastmod>2021-09-20T21:17:30-06:00</lastmod>
+<lastmod>2021-11-18T20:20:05-05:00</lastmod>
 </url>
 <url>
 <loc>/cv</loc>
@@ -22,11 +22,7 @@
 <loc>/contact</loc>
 </url>
 <url>
-<loc>/assets/pdf/example_pdf.pdf</loc>
-<lastmod>2021-07-28T21:06:11-06:00</lastmod>
-</url>
-<url>
-<loc>/assets/zander_cv.pdf</loc>
-<lastmod>2021-07-30T13:33:42-06:00</lastmod>
+<loc>/assets/zandercv.pdf</loc>
+<lastmod>2021-11-18T20:11:53-05:00</lastmod>
 </url>
 </urlset>
