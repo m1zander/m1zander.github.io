@@ -17,8 +17,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD Candidate in Information Science at the University of Colorado Boulder. My research focuses on the societal and environmental impacts of data center infrastructure in the Eastern United States, specifically in Prince William County in Northern Virginia——the fieldsite for my ethnographic dissertation research. 
- 
+I am a PhD Candidate in Information Science at the University of Colorado Boulder. My research focuses on the societal and environmental impacts of data center infrastructure in the Eastern United States, specifically in Prince William County in Northern Virginia—the fieldsite for my ethnographic dissertation research. 
+
 I am co-advised by [Dr. Leysia Palen](https://www.colorado.edu/cmci/people/information-science/leysia-palen) and [Dr. Alison Cool](https://www.colorado.edu/cmci/people/information-science/alison-cool). I am a member of the EPIC lab (Empowering the Public with Information in Crisis).
 
 <!--- You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.--->
